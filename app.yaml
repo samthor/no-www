@@ -1,0 +1,6 @@
+runtime: go114
+
+handlers:
+- url: /.*
+  script: auto
+  # does NOT set `secure: always`, so we can serve http://www => https:// directly
