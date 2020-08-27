@@ -11,3 +11,8 @@ For example:
   http://www.www.foo.bar => https://foo.bar
   https://test.com => 404
   https://www.test.com/hello => https://www.test.com/hello
+
+## JS source
+
+JS source is as files only for convenience.
+It's actually served from the inline version found in the Go source code.
