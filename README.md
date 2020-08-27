@@ -7,10 +7,10 @@ This does only a few things:
 
 For example:
 
-  http://www.example.com => https://example.com
-  http://www.www.foo.bar => https://foo.bar
-  https://test.com => 404
-  https://www.test.com/hello => https://www.test.com/hello
+  * http://www.example.com => https://example.com
+  * http://www.www.foo.bar => https://foo.bar
+  * https://test.com => 404
+  * https://www.test.com/hello => https://www.test.com/hello
 
 ## JS source
 
