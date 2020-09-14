@@ -10,7 +10,7 @@ For example:
   * http://www.example.com => https://example.com
   * http://www.www.foo.bar => https://foo.bar
   * https://test.com => 404
-  * https://www.test.com/hello => https://www.test.com/hello
+  * https://www.test.com/hello => https://test.com/hello
 
 ## JS source
 
